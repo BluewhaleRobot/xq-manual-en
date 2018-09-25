@@ -1,0 +1,60 @@
+{
+  "title": "Xiaoqiang ROS robot user manual",
+  "description": "Xiaoqiang ROS robot user manual includes some tutorial of how to use it, making it easier for you to familiar with the use of Xiaoqiang. At the same time, it also contains the maintenance knowledge of Xiaoqiang, so that users can make better use of it.",
+  "language": "en",
+  "gitbook": "3.x.x",
+  "plugins": [
+    "github",
+    "editlink",
+    "prism",
+    "downloadpdf",
+    "yahei",
+    "katex",
+    "search",
+    "include-codeblock",
+    "anchor-navigation-ex",
+    "randoms-versions",
+    "-live-reload"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/BlueWhaleRobot/xq-manual-en"
+    },
+    "editlink": {
+      "base": "https://github.com/BlueWhaleRobot/xq-manual-en/edit/master",
+      "label": "编辑本页"
+    },
+    "sharing": {
+      "weibo": true,
+      "twitter": false,
+      "facebook": false
+    },
+    "downloadpdf": {
+      "base": "https://doc.bwbot.org/pdf/xq-manual-en",
+      "label": "下载PDF",
+      "multilingual": false
+    },
+    "fontSettings": {
+      "theme": "white",
+      "family": "msyh",
+      "size": 2
+    },
+    "versions": {
+      "host": "https://xq-manual-en.bwbot.org"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
+    }
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 14,
+    "paperSize": "a4",
+    "margin": {
+      "right": 30,
+      "left": 30,
+      "top": 30,
+      "bottom": 50
+    }
+  }
+}
