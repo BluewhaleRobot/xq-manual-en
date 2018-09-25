@@ -13,7 +13,6 @@
     "search",
     "include-codeblock",
     "anchor-navigation-ex",
-    "randoms-versions",
     "-live-reload"
   ],
   "pluginsConfig": {
@@ -22,7 +21,7 @@
     },
     "editlink": {
       "base": "https://github.com/BlueWhaleRobot/xq-manual-en/edit/master",
-      "label": "编辑本页"
+      "label": "Edit this page"
     },
     "sharing": {
       "weibo": true,
@@ -31,7 +30,7 @@
     },
     "downloadpdf": {
       "base": "https://doc.bwbot.org/pdf/xq-manual-en",
-      "label": "下载PDF",
+      "label": "Download PDF",
       "multilingual": false
     },
     "fontSettings": {
