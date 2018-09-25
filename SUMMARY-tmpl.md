@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-* [1. Quick Start]($nodebb/topic/549.md)
+* [Quick Start]($nodebb/topic/549.md)
 
 ## Xiaoqiang ROS tutorial
 
